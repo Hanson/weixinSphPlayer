@@ -1,4 +1,4 @@
-# WechatSphPlayer
+# weixinSphPlayer
 
 **需要视频号直链、免解密方案？可加微信：hansonskr**
 
