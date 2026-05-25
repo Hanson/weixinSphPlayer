@@ -1,8 +1,8 @@
 # WechatSphPlayer
 
-> **视频号直链 / 免解密播放 / 一键下载**
->
-> 无需手动解密，输入地址和密钥即可在线播放加密视频
+**需要视频号直链、免解密方案？可加微信：hansonskr**
+
+微信公众号视频号加密视频解密播放器，输入加密视频地址和解密密钥，即可在线播放或下载解密后的视频文件。
 
 ![screenshot](screenshot.jpg)
 
@@ -27,8 +27,6 @@
 接口文档详见：https://wechat-finder.apifox.cn
 
 ## 联系方式
-
-**视频号直链方案可联系微信：hansonskr**
 
 - 作者：hanson
 - 微信：hansonskr
